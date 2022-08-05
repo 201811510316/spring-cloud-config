@@ -5,4 +5,4 @@ spring:
     name: config-client
   profiles:
     active: dev
-name: zhangsan
+
